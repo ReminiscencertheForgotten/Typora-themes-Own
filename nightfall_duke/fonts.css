@@ -1,0 +1,23 @@
+@font-face {
+    font-family: "仓耳明楷";
+    src: url("./DukeChi.woff2") format("woff2");
+    font-weight: 400;
+    font-display: auto;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Volkhov";
+    src: url("./DukeEng.woff2") format("woff2");
+    font-weight: 400;
+    font-display: auto;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Leelawadee";
+    src: url("./DukeEng_base.woff2") format("woff2");
+    font-weight: 400;
+    font-display: auto;
+    font-style: normal;
+}
